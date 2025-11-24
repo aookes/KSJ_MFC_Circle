@@ -1,0 +1,100 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\workspace\\C_Prac\\KSJ_MFC_Circle\\gMFC_Circle\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{32F73BA2-228F-8DC9-59C3-986F29053A8B}|gMFC_Circle\\gMFC_Circle.vcxproj|C:\\workspace\\C_Prac\\KSJ_MFC_Circle\\gMFC_Circle\\gMFC_Circle\\gMFCCircle.rc||{177559E0-D141-11D0-92DF-00A0C9138C45}|,   b e g i n       % \u0084 2$  \u0022     ",
+      "RelativeMoniker": "D:0:0:{32F73BA2-228F-8DC9-59C3-986F29053A8B}|gMFC_Circle\\gMFC_Circle.vcxproj|solutionrelative:gMFC_Circle\\gMFCCircle.rc||{177559E0-D141-11D0-92DF-00A0C9138C45}|,   b e g i n       % \u0084 2$  \u0022     "
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32F73BA2-228F-8DC9-59C3-986F29053A8B}|gMFC_Circle\\gMFC_Circle.vcxproj|C:\\workspace\\C_Prac\\KSJ_MFC_Circle\\gMFC_Circle\\gMFC_Circle\\gMFCCircle.rc||{177559E0-D141-11D0-92DF-00A0C9138C45}|,   b e g i n       % \u00A2 2$  \u0022     ",
+      "RelativeMoniker": "D:0:0:{32F73BA2-228F-8DC9-59C3-986F29053A8B}|gMFC_Circle\\gMFC_Circle.vcxproj|solutionrelative:gMFC_Circle\\gMFCCircle.rc||{177559E0-D141-11D0-92DF-00A0C9138C45}|,   b e g i n       % \u00A2 2$  \u0022     "
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32F73BA2-228F-8DC9-59C3-986F29053A8B}|gMFC_Circle\\gMFC_Circle.vcxproj|C:\\workspace\\C_Prac\\KSJ_MFC_Circle\\gMFC_Circle\\gMFC_Circle\\gMFC_CircleDlg.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{32F73BA2-228F-8DC9-59C3-986F29053A8B}|gMFC_Circle\\gMFC_Circle.vcxproj|solutionrelative:gMFC_Circle\\gMFC_CircleDlg.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32F73BA2-228F-8DC9-59C3-986F29053A8B}|gMFC_Circle\\gMFC_Circle.vcxproj|C:\\workspace\\C_Prac\\KSJ_MFC_Circle\\gMFC_Circle\\gMFC_Circle\\CRadiusDlg.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{32F73BA2-228F-8DC9-59C3-986F29053A8B}|gMFC_Circle\\gMFC_Circle.vcxproj|solutionrelative:gMFC_Circle\\CRadiusDlg.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32F73BA2-228F-8DC9-59C3-986F29053A8B}|gMFC_Circle\\gMFC_Circle.vcxproj|C:\\workspace\\C_Prac\\KSJ_MFC_Circle\\gMFC_Circle\\gMFC_Circle\\CRadiusDlg.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{32F73BA2-228F-8DC9-59C3-986F29053A8B}|gMFC_Circle\\gMFC_Circle.vcxproj|solutionrelative:gMFC_Circle\\CRadiusDlg.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "gMFCCircle.rc - IDD_ABOUTBOX - Dialog",
+              "DocumentMoniker": "C:\\workspace\\C_Prac\\KSJ_MFC_Circle\\gMFC_Circle\\gMFC_Circle\\gMFCCircle.rc",
+              "RelativeDocumentMoniker": "gMFC_Circle\\gMFCCircle.rc",
+              "ToolTip": "C:\\workspace\\C_Prac\\KSJ_MFC_Circle\\gMFC_Circle\\gMFC_Circle\\gMFCCircle.rc - IDD_ABOUTBOX - Dialog",
+              "RelativeToolTip": "gMFC_Circle\\gMFCCircle.rc - IDD_ABOUTBOX - Dialog",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2025-11-24T09:53:10.784Z",
+              "EditorCaption": " - IDD_ABOUTBOX - Dialog"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "gMFCCircle.rc - IDD_RADIUS_DLG - Dialog",
+              "DocumentMoniker": "C:\\workspace\\C_Prac\\KSJ_MFC_Circle\\gMFC_Circle\\gMFC_Circle\\gMFCCircle.rc",
+              "RelativeDocumentMoniker": "gMFC_Circle\\gMFCCircle.rc",
+              "ToolTip": "C:\\workspace\\C_Prac\\KSJ_MFC_Circle\\gMFC_Circle\\gMFC_Circle\\gMFCCircle.rc - IDD_RADIUS_DLG - Dialog",
+              "RelativeToolTip": "gMFC_Circle\\gMFCCircle.rc - IDD_RADIUS_DLG - Dialog",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2025-11-24T09:53:09.81Z",
+              "EditorCaption": " - IDD_RADIUS_DLG - Dialog"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "gMFC_CircleDlg.h",
+              "DocumentMoniker": "C:\\workspace\\C_Prac\\KSJ_MFC_Circle\\gMFC_Circle\\gMFC_Circle\\gMFC_CircleDlg.h",
+              "RelativeDocumentMoniker": "gMFC_Circle\\gMFC_CircleDlg.h",
+              "ToolTip": "C:\\workspace\\C_Prac\\KSJ_MFC_Circle\\gMFC_Circle\\gMFC_Circle\\gMFC_CircleDlg.h",
+              "RelativeToolTip": "gMFC_Circle\\gMFC_CircleDlg.h",
+              "ViewState": "AgIAAC4AAAAAAAAAAAAUwDQAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-11-24T09:12:04.657Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CRadiusDlg.cpp",
+              "DocumentMoniker": "C:\\workspace\\C_Prac\\KSJ_MFC_Circle\\gMFC_Circle\\gMFC_Circle\\CRadiusDlg.cpp",
+              "RelativeDocumentMoniker": "gMFC_Circle\\CRadiusDlg.cpp",
+              "ToolTip": "C:\\workspace\\C_Prac\\KSJ_MFC_Circle\\gMFC_Circle\\gMFC_Circle\\CRadiusDlg.cpp",
+              "RelativeToolTip": "gMFC_Circle\\CRadiusDlg.cpp",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAACoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-11-24T09:10:06.33Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CRadiusDlg.h",
+              "DocumentMoniker": "C:\\workspace\\C_Prac\\KSJ_MFC_Circle\\gMFC_Circle\\gMFC_Circle\\CRadiusDlg.h",
+              "RelativeDocumentMoniker": "gMFC_Circle\\CRadiusDlg.h",
+              "ToolTip": "C:\\workspace\\C_Prac\\KSJ_MFC_Circle\\gMFC_Circle\\gMFC_Circle\\CRadiusDlg.h",
+              "RelativeToolTip": "gMFC_Circle\\CRadiusDlg.h",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABwAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-11-24T09:08:20.636Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
